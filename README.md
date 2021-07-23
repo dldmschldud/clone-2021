@@ -28,7 +28,7 @@ script is used to embed executable code or data, typically used to embed or refe
 
 e. html코드에 css링크 추가 단축키
 
-<head> </head>('this is code') 사이에 작성
+head에 작성
 
 link:css + enter
 
@@ -41,7 +41,6 @@ f. pseudo selectors
 .status-bar__colum span{} -> 모든 span에 적용
 
 g. 폰트 적용
-
 
 font-family
 
@@ -57,12 +56,5 @@ i. 브라우저가 html에 적용시키는 스타일 없애기
 
 j. flex
 
-<body>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-</body>
-  
 body{ height:100vh; }
 
