@@ -9,7 +9,9 @@
 css코드를 쉽게 읽기 위해서 사용
 
 .btn{}
+
 .btn__price{}
+
 .btn--orange{}
 
 ### c. 아이콘
