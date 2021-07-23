@@ -28,7 +28,7 @@ script is used to embed executable code or data, typically used to embed or refe
 
 e. html코드에 css링크 추가 단축키
 
-'''<head> </head>''' 사이에 작성
+<head> </head>('this is code') 사이에 작성
 
 link:css + enter
 
