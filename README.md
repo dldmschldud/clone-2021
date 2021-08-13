@@ -59,4 +59,7 @@ justify content:space between 대신 justify content:center 사용후 자식들�
 ### 10. flex
 
 body{ height:100vh; }
+#### row 
+justify-content ->
+
 
